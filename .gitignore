@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*Zone.Identifier
+data/*.csv
+outputs/predictions/*
+outputs/reports/*
+!outputs/reports/ejemplo_reporte.pdf
